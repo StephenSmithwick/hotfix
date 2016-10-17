@@ -4,7 +4,7 @@
   <groupId>com.qantas</groupId>
   <artifactId>global</artifactId>
   <name>global</name>
-  <version>1.17</version>
+  <version>1.17-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modelVersion>4.0.0</modelVersion>
 
